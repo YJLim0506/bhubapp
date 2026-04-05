@@ -1,2 +1,0 @@
-# bhubapp
-#onlyforbhub
